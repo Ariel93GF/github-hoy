@@ -9,7 +9,7 @@
 
 /* estilos generales */
 body{
-    background-color: #ECEEF3;
+    background-color: black;
 }
 
 /* estilos de header*/
@@ -43,7 +43,7 @@ main p{
 
 
 main .boton{
-    background-color: #51B0DF;
+    background-color: rebeccapurple;
     padding: 0.6rem;
     margin-top: 1rem;
     box-shadow: 2px 2px 2px black;
